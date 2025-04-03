@@ -1,0 +1,18 @@
+You: pip install python-levenshtein
+Chatbot: pip install python-Levenshtein
+
+You: pip install python-levenshtein
+Chatbot: pip install python-Levenshtein
+
+You: hello
+Chatbot: e
+
+You: e?
+Chatbot: !
+
+You: ?
+Chatbot: Hi there!
+
+You: hello
+Chatbot: e
+

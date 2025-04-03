@@ -1,0 +1,10 @@
+{
+    "hello!": "Hi there! Whats'up?",
+    "i'm fine! could you do sth for me?": "Ofc, tell me what u need?",
+    "pip install python-levenshtein": [
+        "pip install python-Levenshtein"
+    ],
+    "?": [
+        "Hi there!"
+    ]
+}
