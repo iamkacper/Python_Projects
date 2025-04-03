@@ -1,0 +1,13 @@
+{
+    "2025-04-03": {
+        "sessions": [
+            "08:00 - 16:00"
+        ],
+        "break_time": 30,
+        "total_hours": 7,
+        "total_minutes": 30,
+        "overtime": 0,
+        "day_of_week": "Thursday",
+        "day_of_month": 3
+    }
+}
